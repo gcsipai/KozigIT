@@ -30,4 +30,4 @@ A program alacsony szintű rendszerparancsokat futtat, ezért **Rendszergazdai J
 
 ## Készítők
 
-**Készítette:** Csipai Gergő & Lovász Ádám 2025
+**Készítette:** Csipai Gergő 2025 (Eredeti: Ocskó Zsolt & Lovász Ádám)
